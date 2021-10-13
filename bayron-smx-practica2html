@@ -1,0 +1,27 @@
+<html>
+   <head>
+     <title>🇭🇳QP2 ESTE MI PAIS🇭🇳</title>
+     <meta charset="utf-8">
+     <html lang="es-ES">
+     <script src="script.js" defer></script>
+     <meta name="author" content="Bayron Josue Zavala">
+     <meta name="desciption" content="Esta pagina es para que conoscan mas de mi pais Honduras">
+     <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+     <h1><font face="cursive"size=15> Honduras</font></h1>
+    <!--este es el titulo-->
+     <p>Es un país de América Central.Es un estado unitario y se autodefine como libre, soberano e independiente.
+     Limita al norte y este con el <b>mar Caribe</b>, al sureste con <b>Nicaragua</b>, al sur con el <b>golfo de Fonseca y El Salvador</b>, y al oeste con <b>Guatemala</b>, en cuanto a los límites marítimos colinda con <b>México, Belice, Cuba, Islas Caimán, Guatemala, Jamaica, Colombia, Nicaragua &amp; El Salvador</b></p>
+    <img src="https://elestado.net/wp-content/uploads/2020/05/honduras.jpg" width= "500" height= "400">
+     
+     <h2> La cultura</h2>
+     <p> La cultura de<b> Honduras </b>es el conjunto de expresiones de un pueblo y estas también representa la mayor parte de un país consisten de:<b>Costumbres, prácticas, códigos, normas y reglas de la manera de ser, vestirse, religión, rituales,</B> normas de comportamiento y sistemas de creencias.</p>
+          <img src="http://www.titoca.com/archivos/blog/blog_articulos_honduras-mapa-titoca_1547399146.jpg" width="500" height="400">
+       <h2> El Baile "Danza folklóricas"</h2>
+       <p>En Honduras existen más de 140 danzas folclóricas informadas en la Oficina de <b>Folclore Nacional</b> pero hay danzas que con el tiempo se han convertido en las más representativas.Dentro del área campesina indígena se subdividen <b>las danzas criollas, criollas de imitación,danzas campesinas con influencia indígena, danzas regias o coloniales</B>.En las danzas afro – caribeñas destaca el baile de la punta, el dugu, los mascaros y otras de la etnia <b>Garífuna</b>.</p>
+        <a href="https://www.youtube.com/watch?v=iaOKmWYUSbM"target="_blank">El BAILE> </a>  
+           
+
+   </body>
+ </html>
